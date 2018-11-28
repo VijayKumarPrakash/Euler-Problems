@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-//600851475143
 
 int Euler3(long long, int);
 
