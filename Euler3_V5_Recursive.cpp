@@ -8,8 +8,6 @@ main()
 {
 	long long num=600851475143,result,i=2;
 	result=Euler3(num,i);
-	//if(>result)
-	//result=temp;
 	printf("\nThe largest Prime factor of %lld is %lld.\n",num,result);
 }
 
